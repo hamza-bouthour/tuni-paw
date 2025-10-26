@@ -108,6 +108,7 @@ export default function Main() {
         <Flex gap="20px" justify="center" mb="40px">
             <img src="/ramy.jpeg" alt="Ramy the dog" style={{ width: '400px', borderRadius: '16px', marginRight: "20px" }} />
             <img src="/ramy-3.png" alt="Ramy the dog" style={{ width: '605px', borderRadius: '16px' }} />
+            <img src="/ramy-4.png" alt="Ramy the dog" style={{ width: '605px', borderRadius: '16px' }} />
         </Flex>
         </div>
 
