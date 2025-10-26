@@ -11,15 +11,10 @@ import {
   Card,
   Badge,
   Stack,
-  Paper,
   Divider,
   Flex,
 } from '@mantine/core';
 import {
-  IconHeartHandshake,
-  IconPaw,
-  IconShieldHeart,
-  IconArrowRight,
   IconCoins,
 } from '@tabler/icons-react';
 import './Main.css';
